@@ -3,6 +3,8 @@ Teen Phone Addiction Analysis Web App
 
  ## Project Overview
  This is a Flask-based web application for analyzing teen phone addiction data, developed as a group project for BDAT 1004 Data Analytics Programming. The app allows users to sign up, log in, upload a CSV dataset (from Kaggle), and view basic data summaries for now.
+ 
+ The project has been hosted using Railway: https://teenphoneaddictionapp.up.railway.app/
 
  ## Dataset
  - **Source**: Teen Phone Addiction Dataset from Kaggle (https://www.kaggle.com/datasets/khushikyad001/teen-phone-addiction-and-lifestyle-survey)
@@ -17,7 +19,7 @@ Teen Phone Addiction Analysis Web App
  ## Setup Instructions
  1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/TeenPhoneAddictionApp.git
+    git clone https://github.com/hrishirajsonar/TeenPhoneAddictionApp.git
     ```
  2. Create and activate a virtual environment:
     ```bash
