@@ -1,23 +1,4 @@
 # Nixpacks configuration for Railway
-     [phases.setup]
-     # Install Python and required dependencies
-     nixPkgs = ['python3', 'python3-pip']
-     
-     [phases.install]
-     # Install Python dependencies from requirements.txt
-     cmds = ['pip install -r requirements.txt']
-     
-     [phases.build]
-     # No additional build steps needed for Flask
-     cmds = []
-     
-     [start]
-     # Run the Flask app
-     cmd = 'python app.py'
-     
-     [variables]
-     # Flask environment variables
-     FLASK_APP = 'app.py'
-     FLASK_ENV = 'production'
-     # Ensure Railway uses the correct port
-     PORT = '8000'
+
+[start]
+cmd = "gunicorn app:app"
