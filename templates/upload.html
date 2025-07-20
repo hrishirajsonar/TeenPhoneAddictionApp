@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1>Upload CSV File</h1>
+    <p>Upload a teen phone addiction dataset (CSV format) to analyze.</p>
+    <form method="POST" enctype="multipart/form-data" class="form">
+        {{ form.hidden_tag() }}
+        <div class="form-group">
+            <label for="file">Choose CSV File</label>
+            {{ form.file(id="file", accept=".csv") }}
+        </div>
+        <button type="submit">{{ form.submit.label.text }}</button>
+    </form>
+{% endblock %}

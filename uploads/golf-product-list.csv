@@ -1,0 +1,850 @@
+product_id,product,product_category,product_brand,product_whole_sale_cost,product_market_price
+1,Callaway Paradym Fairway Wood - 3W Stiff,Drivers & Woods,Callaway,383.58,518
+2,Nike Golf Dri-FIT Polo - Black - Size M,Apparel,Nike Golf,27.67,40
+3,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,32.32,59
+4,FootJoy Pro/SL Golf Shoes - Size 11 - Grey,Footwear,FootJoy,124.93,213
+5,Ping Hoofer Stand Bag - Blue,Golf Bags,Ping,153.37,221
+6,SuperStroke Tour Velvet 360 Grip Set (13 pc),Accessories,SuperStroke,218.42,398
+7,Bushnell Tour V6 Shift Rangefinder,Accessories,Bushnell,227.42,333
+8,Ping G430 MAX Driver - 9.5 Regular,Drivers & Woods,Ping,206.88,282
+9,Under Armour HOVR Drive Golf Shoes - Size 12 - White,Footwear,Under Armour,171.21,295
+10,Scotty Cameron Newport 2 Putter - 34,Putters,Scotty Cameron,342.34,517
+11,TravisMathew The Zinna Polo - Black - Size L,Apparel,TravisMathew,28.29,40
+12,Ping G430 MAX Driver - 9.5 Ladies,Drivers & Woods,Ping,401.59,687
+13,Srixon ZX Mk II Fairway Wood - 3W Stiff,Drivers & Woods,Srixon,403.49,573
+14,Odyssey White Hot OG Mallet Putter - 34,Putters,Odyssey,161.73,266
+15,Srixon ZX5 Iron Set (5-PW) - Regular,Irons & Wedges,Srixon,916,1475
+16,Nike Golf Dri-FIT Performance Shorts - Green - Waist 34,Apparel,Nike Golf,35.61,51
+17,Bettinardi Queen B #6 Mallet Putter - 34,Putters,Bettinardi,194,328
+18,Ping G430 MAX Driver - 10.5 Regular,Drivers & Woods,Ping,353,526
+19,Cobra King Tour Driving Iron - 2i,Irons & Wedges,Cobra,449.88,716
+20,Evnroll ER2 Mallet Putter - 33,Putters,Evnroll,147.16,211
+21,TaylorMade Stealth 2 Driver - 10.5 Senior,Drivers & Woods,TaylorMade,328.61,437
+22,FootJoy Pro/SL Spikeless Shoes - Size 9.5,Footwear,FootJoy,114.39,181
+23,Nike Golf Air Max 90 G Golf Shoes - Size 10.5 - Silver,Footwear,Nike Golf,107,175
+24,Bettinardi Queen B #6 Blade Putter - 33,Putters,Bettinardi,142.12,239
+25,Nike Golf Air Max 90 G Golf Shoes - Size 10 - Black,Footwear,Nike Golf,127.47,236
+26,Puma Golf Ignite Articulate Golf Shoes - Size 11 - Blue,Footwear,Puma Golf,161,210
+27,Callaway Fairway C Stand Bag - Silver,Golf Bags,Callaway,229.06,378
+28,Wilson Staff Duo Soft Golf Balls - Dozen Pack,Golf Balls,Wilson Staff,39,69
+29,TaylorMade P790 Iron Set (5-PW) - Regular,Irons & Wedges,TaylorMade,719.42,1288
+30,Sun Mountain 4.5 LS Stand Bag - Navy,Golf Bags,Sun Mountain,138.39,219
+31,Adidas Golf Ultimate365 Polo - Silver - Size S,Apparel,Adidas Golf,54,95
+32,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,594,844
+33,Mizuno JPX923 Hot Metal Driving Iron - 2i,Irons & Wedges,Mizuno,453,689
+34,TaylorMade Spider GT Putter - 34,Putters,TaylorMade,203.86,290
+35,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,15.65,22
+36,Wilson Staff Duo Soft - Yellow - Dozen Pack,Golf Balls,Wilson Staff,31,41
+37,TaylorMade Spider GT Mallet Putter - 34,Putters,TaylorMade,268.04,451
+38,TaylorMade Spider GT Mallet Putter - 33,Putters,TaylorMade,223,348
+39,Evnroll ER2 Putter - 33,Putters,Evnroll,336.94,445
+40,TaylorMade FlexTech Stand Bag - Green,Golf Bags,TaylorMade,133.37,219
+41,Adidas Golf Codechaos Golf Shoes - Size 10.5 - Green,Footwear,Adidas Golf,154,233
+42,Nike Golf Dri-FIT Polo - Silver - Size XXL,Apparel,Nike Golf,87.95,142
+43,Nike Golf Dri-FIT 1/4 Zip Pullover - Blue - Size L,Apparel,Nike Golf,79,103
+44,PXG GEN6 0311 Hybrid - 4H Regular,Drivers & Woods,PXG,356.98,497
+45,Sun Mountain 4.5 LS Stand Bag - Black,Golf Bags,Sun Mountain,210.15,318
+46,Cobra King Tour Wedge - 52,Irons & Wedges,Cobra,930,1312
+47,Titleist Tour Performance Hat - Green,Accessories,Titleist,138.64,228
+48,TaylorMade Tour Response - Yellow - Dozen Pack,Golf Balls,TaylorMade,29,53
+49,PXG 0211 Iron Set (5-PW) - Ladies,Irons & Wedges,PXG,676.71,1144
+50,Evnroll ER2 Putter - 34,Putters,Evnroll,274.72,402
+51,Wilson Staff Duo Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Wilson Staff,30.86,52
+52,Titleist Players 4 Stand Bag - Black,Golf Bags,Titleist,167,269
+53,Peter Millar Crown Sport 1/4 Zip Pullover - Blue - Size XXL,Apparel,Peter Millar,84.95,138
+54,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,275,372
+55,Titleist TSR2 Driver - 10.5 Regular,Drivers & Woods,Titleist,245.56,381
+56,TravisMathew The Zinna Polo - Green - Size L,Apparel,TravisMathew,52.32,84
+57,Clicgear Tour 2.0 Putter Grip,Accessories,Clicgear,224.97,313
+58,Callaway Paradym Hybrid - 4H Regular,Drivers & Woods,Callaway,203,340
+59,Odyssey White Hot OG Mallet Putter - 35,Putters,Odyssey,195.95,334
+60,FootJoy Pro/SL Spikeless Shoes - Size 9,Footwear,FootJoy,114.07,178
+61,Nike Golf Air Max 90 G Spikeless Shoes - Size 10.5,Footwear,Nike Golf,82,143
+62,Adidas Golf Ultimate365 Polo - Blue - Size L,Apparel,Adidas Golf,62,90
+63,PXG GEN6 0311 Driver - 8.0 Senior,Drivers & Woods,PXG,348.83,503
+64,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,494.61,772
+65,Ping Anser Blade Putter - 34,Putters,Ping,115.11,180
+66,Srixon ZX Mk II Hybrid - 4H X-Stiff,Drivers & Woods,Srixon,218.4,295
+67,PXG GEN6 0311 Fairway Wood - 3W Regular,Drivers & Woods,PXG,301.9,462
+68,Sun Mountain 4.5 LS Cart Bag - Red,Golf Bags,Sun Mountain,138,206
+69,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,36,66
+70,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,424.16,705
+71,Titleist TSR2 Driver - 12.0 Regular,Drivers & Woods,Titleist,342,613
+72,TravisMathew The Zinna 1/4 Zip Pullover - Blue - Size S,Apparel,TravisMathew,50.84,66
+73,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Bags,Srixon,184.97,298
+74,Nike Golf Dri-FIT Performance Shorts - Silver - Waist 34,Apparel,Nike Golf,54,77
+75,Mizuno ST-Z 230 Driver - 9.0 Stiff,Drivers & Woods,Mizuno,386,634
+76,FootJoy Weather-Sof Rain Jacket - Size XL,Apparel,FootJoy,30.34,44
+77,Cobra King Tour Iron Set (5-PW) - X-Stiff,Irons & Wedges,Cobra,529.58,901
+78,Titleist Pro V1 Golf Balls - Dozen Pack,Golf Balls,Titleist,15.65,22
+79,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.73,1486
+80,Vice Golf Pro Plus - Yellow - Dozen Pack,Golf Balls,Vice Golf,21.82,31
+81,TaylorMade Stealth 2 Driver - 9.5 Stiff,Drivers & Woods,TaylorMade,233.56,386
+82,Sun Mountain Chiller Stand Bag - Blue,Golf Bags,Sun Mountain,192.83,346
+83,G/FORE Feeder Stripe 1/4 Zip Pullover - Grey - Size L,Apparel,G/FORE,48.06,78
+84,G/FORE Feeder Stripe Polo - Black - Size M,Apparel,G/FORE,44.91,61
+85,Titleist Players 4 Stand Bag - Charcoal,Golf Bags,Titleist,138.82,189
+86,Nike Golf Dri-FIT Performance Shorts - Blue - Waist 34,Apparel,Nike Golf,79,130
+87,Evnroll ER2 Putter - 33,Putters,Evnroll,319,530
+88,Titleist Tour Performance Hat - White,Accessories,Titleist,101.44,147
+89,Odyssey White Hot OG Mallet Putter - 33,Putters,Odyssey,246,367
+90,Callaway Paradym Hybrid - 4H Regular,Drivers & Woods,Callaway,383,610
+91,Sun Mountain 4.5 LS Cart Bag - Silver,Golf Bags,Sun Mountain,141.6,220
+92,Callaway Paradym Driver - 10.5 Regular,Drivers & Woods,Callaway,345,570
+93,Vice Golf Pro Plus Golf Balls - 2 Dozen Bundle,Golf Balls,Vice Golf,24,38
+94,Cleveland Staff Model Iron - 7 Iron,Irons & Wedges,Cleveland,688.58,1116
+95,PXG GEN6 0311 Hybrid - 4H Ladies,Drivers & Woods,PXG,439.06,589
+96,Callaway Fairway C Stand Bag - Navy,Golf Bags,Callaway,197,320
+97,Callaway Apex Pro Iron Set (5-PW) - Stiff,Irons & Wedges,Callaway,531,739
+98,G/FORE MG4+ Golf Shoes - Size 12 - Grey,Footwear,G/FORE,175,279
+99,FootJoy Pro/SL Spikeless Shoes - Size 10.5,Footwear,FootJoy,137.67,235
+100,Wilson Staff Duo Soft - Yellow - Dozen Pack,Golf Balls,Wilson Staff,16.48,22
+101,Srixon ZX Mk II Hybrid - 4H Senior,Drivers & Woods,Srixon,445.89,687
+102,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,693,1213
+103,FootJoy Lisle Polo - Blue - Size M,Apparel,FootJoy,42.54,67
+104,Vice Golf Pro Plus Golf Balls - Dozen Pack,Golf Balls,Vice Golf,38.83,57
+105,Odyssey White Hot OG Putter - 33,Putters,Odyssey,299,509
+106,Adidas Golf Ultimate365 1/4 Zip Pullover - Blue - Size XL,Apparel,Adidas Golf,62.2,95
+107,TravisMathew The Zinna Polo - Green - Size S,Apparel,TravisMathew,52.28,70
+108,Callaway Apex Pro Wedge - 58,Irons & Wedges,Callaway,441.54,690
+109,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,18.06,29
+110,FootJoy Pro/SL Spikeless Shoes - Size 9.5,Footwear,FootJoy,123.63,222
+111,Callaway Fairway C Stand Bag - Charcoal,Golf Bags,Callaway,167,226
+112,PXG GEN6 0311 Fairway Wood - 3W X-Stiff,Drivers & Woods,PXG,201.55,343
+113,FootJoy Lisle 1/4 Zip Pullover - Red - Size L,Apparel,FootJoy,53,98
+114,Nike Golf Air Max 90 G Golf Shoes - Size 9 - Red,Footwear,Nike Golf,83.43,149
+115,Bag Boy Chiller Cart Bag - Grey,Golf Bags,Bag Boy,241.25,418
+116,Nike Golf Air Max 90 G Golf Shoes - Size 10.5 - Grey,Footwear,Nike Golf,78,132
+117,Titleist Tour Performance Hat - Black,Accessories,Titleist,139.11,234
+118,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,224.22,357
+119,PXG GEN6 0311 Driver - 12.0 Ladies,Drivers & Woods,PXG,278,414
+120,Sun Mountain 4.5 LS Cart Bag - Navy,Golf Bags,Sun Mountain,210.66,359
+121,Mizuno ST-Z 230 Driver - 9.0 Stiff,Drivers & Woods,Mizuno,375.46,556
+122,Ogio WOODE Hybrid Stand Bag - Red,Golf Bags,Ogio,200.77,344
+123,FootJoy Lisle Polo - Green - Size L,Apparel,FootJoy,65,116
+124,Vice Golf Pro Plus Golf Balls - 2 Dozen Bundle,Golf Balls,Vice Golf,21.37,32
+125,Mizuno ST-Z 230 Driver - 9.5 Stiff,Drivers & Woods,Mizuno,334.82,493
+126,Cleveland CBX ZipCore Wedge - 56,Irons & Wedges,Cleveland,474.96,804
+127,TaylorMade FlexTech Cart Bag - Blue,Golf Bags,TaylorMade,138,206
+128,Ping G430 MAX Driver - 12.0 Regular,Drivers & Woods,Ping,228.3,315
+129,Sun Mountain 4.5 LS Stand Bag - Blue,Golf Bags,Sun Mountain,201.81,267
+130,Ping G430 MAX Fairway Wood - 3W Stiff,Drivers & Woods,Ping,218,347
+131,FootJoy Lisle Polo - Black - Size XXL,Apparel,FootJoy,89,165
+132,Oakley Sutro Sunglasses - Golf Prizm Lens,Accessories,Oakley,284,480
+133,Sun Mountain Chiller Stand Bag - Blue,Golf Bags,Sun Mountain,138,232
+134,Scotty Cameron Newport 2 Blade Putter - 34,Putters,Scotty Cameron,204.03,329
+135,Under Armour HOVR Drive Golf Shoes - Size 10 - Blue,Footwear,Under Armour,156,220
+136,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,29,52
+137,Odyssey White Hot OG Mallet Putter - 33,Putters,Odyssey,143.21,202
+138,TaylorMade Tour Response Golf Balls - Dozen Pack,Golf Balls,TaylorMade,36,66
+139,TaylorMade FlexTech Stand Bag - Red,Golf Bags,TaylorMade,206.18,301
+140,Cobra King Tour Wedge - 58,Irons & Wedges,Cobra,445.69,709
+141,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,310,540
+142,Nike Golf Dri-FIT 1/4 Zip Pullover - Silver - Size XL,Apparel,Nike Golf,72.07,117
+143,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,239.52,430
+144,TaylorMade Spider GT Putter - 35,Putters,TaylorMade,293.73,435
+145,FootJoy Traditions Spiked Shoes - White - Size 8.5,Footwear,FootJoy,81.18,127
+146,FootJoy Weather-Sof Rain Jacket - Size XL,Apparel,FootJoy,45,69
+147,Peter Millar Crown Sport Performance Shorts - Green - Waist 34,Apparel,Peter Millar,44,79
+148,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,225,329
+149,FootJoy Traditions Spiked Shoes - White - Size 11,Footwear,FootJoy,168.17,250
+150,Titleist Players Sunday Bag,Footwear,Titleist,138.38,187
+151,Titleist T100 Iron Set (5-PW) - Regular,Irons & Wedges,Titleist,434.6,739
+152,Adidas Golf Ultimate365 Polo - Silver - Size S,Apparel,Adidas Golf,36.56,64
+153,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.61,1231
+154,G/FORE Feeder Stripe 1/4 Zip Pullover - Navy - Size L,Apparel,G/FORE,43.43,62
+155,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,24,37
+156,Bridgestone Tour B RXS Golf Balls - Dozen Pack,Golf Balls,Bridgestone,22,41
+157,Callaway Apex Pro Driving Iron - 2i,Irons & Wedges,Callaway,533.09,928
+158,Bettinardi Queen B #6 Mallet Putter - 33,Putters,Bettinardi,193.38,300
+159,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,38.16,66
+160,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,699,999
+161,Adidas Golf Codechaos Golf Shoes - Size 12 - Grey,Footwear,Adidas Golf,136.63,208
+162,Cobra Aerojet Driver - 9.5 Stiff,Drivers & Woods,Cobra,326,509
+163,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,19.33,26
+164,Ping Hoofer Stand Bag - Charcoal,Golf Bags,Ping,196.2,279
+165,Bettinardi Queen B #6 Putter - 33,Putters,Bettinardi,211.59,343
+166,Nike Golf Dri-FIT Polo - Blue - Size M,Apparel,Nike Golf,54,92
+167,Cleveland Staff Model Wedge - 52,Irons & Wedges,Cleveland,875,1236
+168,Mizuno JPX923 Hot Metal Wedge - 56,Irons & Wedges,Mizuno,750,1118
+169,TaylorMade Stealth 2 Hybrid - 4H Senior,Drivers & Woods,TaylorMade,322.25,578
+170,Odyssey White Hot OG Putter - 33,Putters,Odyssey,195,302
+171,Callaway Fairway C Stand Bag - Navy,Golf Bags,Callaway,246,367
+172,Bridgestone Tour B RXS Golf Balls - 2 Dozen Bundle,Golf Balls,Bridgestone,39.69,57
+173,Ping Hoofer Cart Bag - Black,Golf Bags,Ping,178.69,276
+174,PXG GEN6 0311 Hybrid - 4H Senior,Drivers & Woods,PXG,232,370
+175,Mizuno ST-Z 230 Driver - 10.5 Regular,Drivers & Woods,Mizuno,280,488
+176,Odyssey White Hot OG Blade Putter - 35,Putters,Odyssey,347.11,540
+177,Ping Anser Putter - 35,Putters,Ping,191.06,310
+178,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,20,38
+179,TaylorMade FlexTech Stand Bag - Red,Golf Bags,TaylorMade,130.41,215
+180,Under Armour Playoff 1/4 Zip Pullover - Blue - Size S,Apparel,Under Armour,82.72,126
+181,G/FORE MG4+ Golf Shoes - Size 10.5 - Black,Footwear,G/FORE,158,266
+182,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,478.41,747
+183,Callaway Paradym Hybrid - 4H Regular,Drivers & Woods,Callaway,203.24,303
+184,Callaway Chrome Soft - Yellow - Dozen Pack,Golf Balls,Callaway,32,49
+185,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,382,624
+186,Ogio WOODE Hybrid Stand Bag - Black,Golf Bags,Ogio,200.73,324
+187,TaylorMade P790 Iron Set (5-PW) - Ladies,Irons & Wedges,TaylorMade,681,1145
+188,Titleist TSR2 Hybrid - 4H Regular,Drivers & Woods,Titleist,234.33,399
+189,Under Armour HOVR Drive Spikeless Shoes - Size 11,Footwear,Under Armour,179,251
+190,Ping Hoofer Stand Bag - Black,Golf Bags,Ping,206.57,329
+191,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Bags,TaylorMade,192.1,286
+192,Sun Mountain 4.5 LS Cart Bag - Blue,Golf Bags,Sun Mountain,138,245
+193,FootJoy Lisle Polo - Silver - Size M,Apparel,FootJoy,31,44
+194,G/FORE MG4+ Golf Shoes - Size 11 - Black,Footwear,G/FORE,118.06,193
+195,PXG 0211 Wedge - 60,Irons & Wedges,PXG,836.21,1263
+196,Mizuno JPX923 Hot Metal Wedge - 50,Irons & Wedges,Mizuno,853,1308
+197,Srixon ZX Mk II Hybrid - 4H Stiff,Drivers & Woods,Srixon,388.58,521
+198,Puma Golf Ignite Articulate Golf Shoes - Size 10.5 - Green,Footwear,Puma Golf,115,201
+199,Ping Hoofer Stand Bag - Silver,Golf Bags,Ping,238.41,358
+200,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,324.77,543
+201,Adidas Golf Codechaos Golf Shoes - Size 8 - Blue,Footwear,Adidas Golf,78,138
+202,Mizuno ST-Z 230 Driver - 12.0 Senior,Drivers & Woods,Mizuno,386.4,630
+203,Ogio WOODE Hybrid Stand Bag - Red,Golf Bags,Ogio,131.78,212
+204,Callaway Fairway C Players Sunday Bag,Golf Bags,Callaway,178.53,321
+205,Titleist Players Sunday Bag,Golf Bags,Titleist,189.96,339
+206,TaylorMade P790 Wedge - 58,Irons & Wedges,TaylorMade,494.61,688
+207,Under Armour Playoff 1/4 Zip Pullover - Red - Size L,Apparel,Under Armour,51,89
+208,Ping Anser Mallet Putter - 33,Putters,Ping,126.96,206
+209,TaylorMade FlexTech Stand Bag - Green,Golf Bags,TaylorMade,223,341
+210,Nike Golf Dri-FIT 1/4 Zip Pullover - Blue - Size L,Apparel,Nike Golf,61.88,88
+211,Srixon ZX5 Iron Set (5-PW) - Regular,Irons & Wedges,Srixon,522.06,789
+212,Titleist Players 4 Cart Bag - Red,Golf Bags,Titleist,247.92,445
+213,Adidas Golf Ultimate365 1/4 Zip Pullover - Silver - Size S,Apparel,Adidas Golf,74.78,132
+214,Under Armour HOVR Drive Spikeless Shoes - Size 9,Footwear,Under Armour,171,281
+215,TaylorMade Stealth 2 Hybrid - 4H Stiff,Drivers & Woods,TaylorMade,444.69,636
+216,Cobra Aerojet Driver - 9.0 Stiff,Drivers & Woods,Cobra,324,561
+217,FootJoy Traditions Spiked Shoes - White - Size 11,Footwear,FootJoy,140,249
+220,FootJoy Pro/SL Golf Shoes - Size 12 - Blue,Footwear,FootJoy,123.69,186
+221,Under Armour HOVR Drive Golf Shoes - Size 8.5 - Black,Footwear,Under Armour,101,159
+222,Callaway Paradym Fairway Wood - 3W Regular,Drivers & Woods,Callaway,301,425
+223,Adidas Golf Codechaos Spikeless Shoes - Size 8.5,Footwear,Adidas Golf,179,308
+224,FootJoy Traditions Spiked Shoes - White - Size 9.5,Footwear,FootJoy,92.51,135
+225,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Stiff,Irons & Wedges,Mizuno,827.64,1519
+226,Adidas Golf Ultimate365 1/4 Zip Pullover - Blue - Size L,Apparel,Adidas Golf,77.37,137
+227,Ping G430 MAX Fairway Wood - 3W Stiff,Drivers & Woods,Ping,202,308
+228,Peter Millar Crown Sport Performance Shorts - Green - Waist 34,Apparel,Peter Millar,53,74
+229,Titleist Players 4 Cart Bag - Navy,Golf Bags,Titleist,138,217
+230,Titleist Players Sunday Bag,Golf Bags,Titleist,188,337
+231,Ogio WOODE Hybrid Stand Bag - Silver,Golf Bags,Ogio,122.9,198
+232,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,32.33,52
+233,Wilson Staff Dynapower Hybrid - 4H Regular,Drivers & Woods,Wilson Staff,444.83,619
+234,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,19,26
+235,Peter Millar Crown Sport Polo - Silver - Size S,Apparel,Peter Millar,37.9,59
+236,Ping G430 MAX Driver - 10.5 Regular,Drivers & Woods,Ping,409.84,693
+237,FootJoy Lisle Performance Shorts - Grey - Waist 34,Apparel,FootJoy,53,88
+238,Mizuno ST-Z 230 Driver - 12.0 Ladies,Drivers & Woods,Mizuno,427.56,667
+239,Cobra Aerojet Driver - 9.5 Stiff,Drivers & Woods,Cobra,292,456
+240,Nike Golf Air Max 90 G Spikeless Shoes - Size 12,Footwear,Nike Golf,161.9,258
+241,Nike Golf Air Max 90 G Golf Shoes - Size 8 - White,Footwear,Nike Golf,173.34,259
+242,Sun Mountain Chiller Cart Bag - Grey,Golf Bags,Sun Mountain,138,187
+243,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,192.83,278
+244,Under Armour Playoff Performance Shorts - Navy - Waist 34,Apparel,Under Armour,37,56
+245,PXG 0211 Iron Set (5-PW) - X-Stiff,Irons & Wedges,PXG,465,656
+246,Mizuno ST-Z 230 Fairway Wood - 3W Stiff,Drivers & Woods,Mizuno,236.4,329
+247,Adidas Golf Ultimate365 Performance Shorts - Grey - Waist 34,Apparel,Adidas Golf,82,143
+248,TaylorMade Spider GT Putter - 33,Putters,TaylorMade,241.69,327
+249,TaylorMade P790 Iron Set (5-PW) - Ladies,Irons & Wedges,TaylorMade,494.39,787
+250,Under Armour Playoff Polo - Green - Size S,Apparel,Under Armour,64.66,110
+251,Cleveland CBX ZipCore Wedge - 58,Irons & Wedges,Cleveland,877,1596
+252,Bushnell Phantom 2 GPS,Accessories,Bushnell,19.33,26
+253,Titleist Tour Performance Hat - Silver,Accessories,Titleist,195,302
+254,TaylorMade P790 Wedge - 56,Irons & Wedges,TaylorMade,776,1406
+255,Cobra Aerojet Hybrid - 4H Regular,Drivers & Woods,Cobra,443.34,604
+256,Sun Mountain 4.5 LS Stand Bag - Grey,Golf Bags,Sun Mountain,131.79,209
+257,Ogio WOODE Hybrid Stand Bag - Black,Golf Bags,Ogio,200.74,271
+258,Scotty Cameron Newport 2 Blade Putter - 33,Putters,Scotty Cameron,311,542
+259,Titleist Pro V1x Golf Balls - Dozen Pack,Golf Balls,Titleist,27,38
+260,TaylorMade FlexTech Cart Bag - Black,Golf Bags,TaylorMade,266.3,424
+261,Under Armour Playoff 1/4 Zip Pullover - Black - Size M,Apparel,Under Armour,71,101
+262,G/FORE MG4+ Golf Shoes - Size 9.5 - White,Footwear,G/FORE,163.79,244
+263,Cleveland CBX ZipCore Wedge - 52,Irons & Wedges,Cleveland,801.44,1427
+264,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size S,Apparel,Nike Golf,70.83,115
+265,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,143.76,214
+266,FootJoy Weather-Sof Rain Jacket - Size S,Apparel,FootJoy,53,88
+267,Srixon ZX Mk II Fairway Wood - 3W Regular,Drivers & Woods,Srixon,403.49,675
+268,TravisMathew The Zinna Polo - Navy - Size XXL,Apparel,TravisMathew,52,70
+269,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,30.33,49
+270,FootJoy Pro/SL Golf Shoes - Size 9 - Black,Footwear,FootJoy,152,242
+271,Bettinardi Queen B #6 Putter - 35,Putters,Bettinardi,275,410
+272,Puma Golf Cloudspun Polo - Grey - Size M,Apparel,Puma Golf,69.11,102
+273,Ping Hoofer Stand Bag - Black,Golf Bags,Ping,116,163
+274,Under Armour HOVR Drive Spikeless Shoes - Size 11,Footwear,Under Armour,156,220
+275,Callaway Fairway C Stand Bag - Navy,Golf Bags,Callaway,203,346
+276,Puma Golf Cloudspun Polo - Navy - Size S,Apparel,Puma Golf,46.7,69
+277,Bushnell Tour V6 Shift Rangefinder,Accessories,Bushnell,227,330
+278,Cobra Aerojet Fairway Wood - 3W X-Stiff,Drivers & Woods,Cobra,182.25,272
+279,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,548.77,933
+280,PXG 0211 Iron Set (5-PW) - Ladies,Irons & Wedges,PXG,711.23,1274
+281,Srixon ZX Mk II Hybrid - 4H Regular,Drivers & Woods,Srixon,303.88,414
+282,Callaway Paradym Hybrid - 4H X-Stiff,Drivers & Woods,Callaway,325,485
+283,TaylorMade Spider GT Putter - 35,Putters,TaylorMade,134.13,189
+284,Wilson Staff Dynapower Driver - 12.0 Ladies,Drivers & Woods,Wilson Staff,448.33,705
+285,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Balls,Srixon,21.5,33
+286,Callaway Apex Pro Driving Iron - 2i,Irons & Wedges,Callaway,786,1195
+287,FootJoy Lisle Polo - Silver - Size XXL,Apparel,FootJoy,61.88,89
+288,Vice Golf Pro Plus - Yellow - Dozen Pack,Golf Balls,Vice Golf,38.03,54
+289,TaylorMade FlexTech Cart Bag - Navy,Golf Bags,TaylorMade,237.95,355
+290,Titleist Players 4 Cart Bag - Green,Golf Bags,Titleist,245.56,420
+291,Titleist Players Sunday Bag,Golf Bags,Titleist,195.91,282
+292,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,742.79,1226
+293,TaylorMade P790 Iron Set (5-PW) - Stiff,Irons & Wedges,TaylorMade,781,1149
+294,PXG GEN6 0311 Fairway Wood - 3W Ladies,Drivers & Woods,PXG,355,497
+295,Bridgestone Tour B RXS - Yellow - Dozen Pack,Golf Balls,Bridgestone,22,35
+296,Wilson Staff Duo Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Wilson Staff,26.98,39
+297,Titleist Players 4 Cart Bag - Black,Golf Bags,Titleist,193.39,269
+298,FootJoy Pro/SL Golf Shoes - Size 11 - Grey,Footwear,FootJoy,110.15,197
+299,TaylorMade Stealth 2 Driver - 9.0 Stiff,Drivers & Woods,TaylorMade,322,467
+300,PXG 0211 Wedge - 52,Irons & Wedges,PXG,605.82,1067
+301,FootJoy Lisle Polo - Blue - Size L,Apparel,FootJoy,31.7,46
+302,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,18,33
+303,TaylorMade Stealth 2 Fairway Wood - 3W Regular,Drivers & Woods,TaylorMade,210.36,314
+304,Under Armour HOVR Drive Spikeless Shoes - Size 8,Footwear,Under Armour,146,247
+305,TaylorMade Stealth 2 Driver - 8.0 Stiff,Drivers & Woods,TaylorMade,331.02,527
+306,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,130,176
+307,Mizuno ST-Z 230 Driver - 10.5 Regular,Drivers & Woods,Mizuno,362.4,592
+308,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Balls,Srixon,21,30
+309,Adidas Golf Ultimate365 1/4 Zip Pullover - Red - Size M,Apparel,Adidas Golf,54.49,79
+310,FootJoy Pro/SL Golf Shoes - Size 9.5 - Grey,Footwear,FootJoy,92,170
+311,Nike Golf Air Max 90 G Spikeless Shoes - Size 10.5,Footwear,Nike Golf,127.35,189
+312,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,368.64,624
+313,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,36,65
+314,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,750,1118
+315,Titleist T100 Wedge - 58,Irons & Wedges,Titleist,388,657
+316,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,843,1491
+317,TaylorMade FlexTech Stand Bag - Red,Golf Bags,TaylorM,153,244
+318,FootJoy Traditions Spiked Shoes - White - Size 8.5,Footwear,FootJoy,83,140
+319,FootJoy Lisle Performance Shorts - Black - Waist 34,Apparel,FootJoy,53,88
+320,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,23,32
+321,Nike Golf Dri-FIT 1/4 Zip Pullover - Navy - Size M,Apparel,Nike Golf,35.61,48
+322,Titleist Players 4 Cart Bag - Red,Golf Bags,Titleist,279.79,417
+323,Nike Golf Dri-FIT Polo - Blue - Size M,Apparel,Nike Golf,54,92
+324,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,138,206
+325,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,35.79,48
+326,Cobra Aerojet Fairway Wood - 3W Senior,Drivers & Woods,Cobra,254.55,395
+327,Peter Millar Crown Sport Polo - Black - Size L,Apparel,Peter Millar,55,83
+328,Titleist TSR2 Driver - 8.0 X-Stiff,Drivers & Woods,Titleist,276,467
+329,Titleist T100 Driving Iron - 2i,Irons & Wedges,Titleist,698,1117
+330,Ping G430 MAX Fairway Wood - 3W X-Stiff,Drivers & Woods,Ping,245.56,366
+331,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,34.02,59
+332,Titleist Players 4 Stand Bag - Charcoal,Golf Bags,Titleist,143.95,203
+333,Srixon ZX5 Driving Iron - 2i,Irons & Wedges,Srixon,403.49,573
+334,Cobra Aerojet Hybrid - 4H Regular,Drivers & Woods,Cobra,443.34,604
+335,Callaway Fairway C Cart Bag - Blue,Golf Bags,Callaway,262.37,365
+336,Mizuno ST-Z 230 Fairway Wood - 3W Regular,Drivers & Woods,Mizuno,375.46,556
+337,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size XXL,Apparel,Nike Golf,58.69,98
+338,Srixon ZX Mk II Hybrid - 4H X-Stiff,Drivers & Woods,Srixon,367,504
+339,TravisMathew The Zinna Polo - Navy - Size L,Apparel,TravisMathew,52,70
+340,Scotty Cameron Newport 2 Blade Putter - 35,Putters,Scotty Cameron,311,542
+341,Nike Golf Air Max 90 G Golf Shoes - Size 12 - Red,Footwear,Nike Golf,161,210
+342,Ping Anser Mallet Putter - 35,Putters,Ping,206.59,334
+343,Nike Golf Dri-FIT Polo - Red - Size XL,Apparel,Nike Golf,27,42
+344,FootJoy Traditions Spiked Shoes - White - Size 9.5,Footwear,FootJoy,130,176
+345,Ogio WOODE Hybrid Stand Bag - Blue,Golf Bags,Ogio,122.9,198
+346,Peter Millar Crown Sport Performance Shorts - Green - Waist 34,Apparel,Peter Millar,44,79
+347,Mizuno ST-Z 230 Fairway Wood - 3W Regular,Drivers & Woods,Mizuno,236,329
+348,Mizuno JPX923 Hot Metal Wedge - 56,Irons & Wedges,Mizuno,750,1118
+349,TaylorMade Tour Response Golf Balls - Dozen Pack,Golf Balls,TaylorMade,36,66
+350,Srixon ZX Mk II Fairway Wood - 3W Stiff,Drivers & Woods,Srixon,403.49,573
+351,Bag Boy Chiller Cart Bag - Grey,Golf Bags,Bag Boy,241.25,418
+352,Puma Golf Cloudspun Polo - Grey - Size M,Apparel,Puma Golf,69.11,102
+353,Ping Anser Blade Putter - 34,Putters,Ping,115.11,180
+354,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,24,37
+355,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,693,1213
+356,Nike Golf Dri-FIT Polo - Silver - Size XXL,Apparel,Nike Golf,87.95,142
+357,TaylorMade Spider GT Putter - 35,Putters,TaylorMade,134.13,189
+358,Scotty Cameron Newport 2 Blade Putter - 34,Putters,Scotty Cameron,204.03,329
+359,FootJoy Lisle Polo - Blue - Size L,Apparel,FootJoy,31.7,46
+360,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,32,49
+361,Nike Golf Air Max 90 G Golf Shoes - Size 10.5 - Silver,Footwear,Nike Golf,107,175
+362,Mizuno ST-Z 230 Driver - 12.0 Ladies,Drivers & Woods,Mizuno,427.56,667
+363,Callaway Fairway C Stand Bag - Navy,Golf Bags,Callaway,203,346
+364,Puma Golf Cloudspun Polo - Navy - Size S,Apparel,Puma Golf,46.7,69
+365,FootJoy Pro/SL Golf Shoes - Size 9.5 - Grey,Footwear,FootJoy,92,170
+366,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,36,66
+367,Srixon ZX Mk II Hybrid - 4H Senior,Drivers & Woods,Srixon,445.89,687
+368,Evnroll ER2 Putter - 33,Putters,Evnroll,319,530
+369,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,143.76,214
+370,Nike Golf Air Max 90 G Spikeless Shoes - Size 12,Footwear,Nike Golf,161.9,258
+371,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,34.02,59
+372,Titleist Players 4 Stand Bag - Charcoal,Golf Bags,Titleist,143.95,203
+373,Ping G430 MAX Fairway Wood - 3W X-Stiff,Drivers & Woods,Ping,245.56,366
+374,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,138,206
+375,Bettinardi Queen B #6 Mallet Putter - 33,Putters,Bettinardi,193.38,300
+376,TaylorMade P790 Iron Set (5-PW) - Stiff,Irons & Wedges,TaylorMade,781,1149
+377,Peter Millar Crown Sport Polo - Black - Size L,Apparel,Peter Millar,55,83
+378,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,224.22,357
+379,Cleveland CBX ZipCore Wedge - 56,Irons & Wedges,Cleveland,474.96,804
+380,Mizuno JPX923 Hot Metal Wedge - 50,Irons & Wedges,Mizuno,853,1308
+381,Bridgestone Tour B RXS Golf Balls - Dozen Pack,Golf Balls,Bridgestone,22,41
+382,TaylorMade Stealth 2 Driver - 8.0 Stiff,Drivers & Woods,TaylorMade,331.02,527
+383,Titleist Tour Performance Hat - Silver,Accessories,Titleist,195,302
+384,Titleist TSR2 Driver - 8.0 X-Stiff,Drivers & Woods,Titleist,276,467
+385,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.61,1231
+386,FootJoy Weather-Sof Rain Jacket - Size S,Apparel,FootJoy,53,88
+387,FootJoy Pro/SL Golf Shoes - Size 11 - Grey,Footwear,FootJoy,110.15,197
+388,FootJoy Lisle Performance Shorts - Black - Waist 34,Apparel,FootJoy,53,88
+389,Cobra Aerojet Fairway Wood - 3W Senior,Drivers & Woods,Cobra,254.55,395
+390,TaylorMade Spider GT Putter - 33,Putters,TaylorMade,241.69,327
+391,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,225,329
+392,Cobra King Tour Wedge - 58,Irons & Wedges,Cobra,445.69,709
+393,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,36,65
+394,Under Armour HOVR Drive Spikeless Shoes - Size 8,Footwear,Under Armour,146,247
+395,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,750,1118
+396,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size XXL,Apparel,Nike Golf,58.69,98
+397,Adidas Golf Ultimate365 1/4 Zip Pullover - Red - Size M,Apparel,Adidas Golf,54.49,79
+398,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Balls,Srixon,21,30
+399,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,843,1491
+400,Adidas Golf Codechaos Golf Shoes - Size 8 - Blue,Footwear,Adidas Golf,78,138
+401,G/FORE MG4+ Golf Shoes - Size 11 - Black,Footwear,G/FORE,118.06,193
+402,Callaway Fairway C Stand Bag - Charcoal,Golf Bags,Callaway,167,226
+403,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,35.79,48
+404,Sun Mountain 4.5 LS Cart Bag - Navy,Golf Bags,Sun Mountain,210.66,359
+405,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,130,176
+406,Under Armour HOVR Drive Spikeless Shoes - Size 11,Footwear,Under Armour,156,220
+407,Oakley Sutro Sunglasses - Golf Prizm Lens,Accessories,Oakley,284,480
+408,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,548.77,933
+409,Under Armour Playoff 1/4 Zip Pullover - Black - Size M,Apparel,Under Armour,71,101
+410,TaylorMade Stealth 2 Fairway Wood - 3W Regular,Drivers & Woods,TaylorMade,210.36,314
+411,Wilson Staff Duo Soft - Yellow - Dozen Pack,Golf Bags,Wilson Staff,115.65,181
+412,TaylorMade P790 Iron Set (5-PW) - Ladies,Irons & Wedges,TaylorMade,681,1145
+413,Ogio WOODE Hybrid Stand Bag - Blue,Golf Bags,Ogio,122.9,198
+414,Mizuno ST-Z 230 Driver - 10.5 Regular,Drivers & Woods,Mizuno,362.4,592
+415,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,18,33
+416,Titleist T100 Wedge - 58,Irons & Wedges,Titleist,388,657
+417,Titleist TSR2 Driver - 8.0 X-Stiff,Drivers & Woods,Titleist,276,467
+418,Cobra Aerojet Hybrid - 4H Regular,Drivers & Woods,Cobra,443.34,604
+419,Nike Golf Dri-FIT 1/4 Zip Pullover - Navy - Size M,Apparel,Nike Golf,35.61,48
+420,PXG 0211 Wedge - 52,Irons & Wedges,PXG,605.82,1067
+421,PXG 0211 Iron Set (5-PW) - X-Stiff,Irons & Wedges,PXG,465,656
+422,TaylorMade FlexTech Stand Bag - Green,Golf Bags,TaylorMade,223,341
+423,Titleist Players 4 Cart Bag - Red,Golf Bags,Titleist,279.79,417
+424,TaylorMade P790 Wedge - 56,Irons & Wedges,TaylorMade,776,1406
+425,Bushnell Phantom 2 GPS,Accessories,Bushnell,19.33,26
+426,Nike Golf Air Max 90 G Spikeless Shoes - Size 10.5,Footwear,Nike Golf,127.35,189
+427,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,23,32
+428,Titleist Players 4 Cart Bag - Green,Golf Bags,Titleist,245.56,420
+429,Titleist T100 Driving Iron - 2i,Irons & Wedges,Titleist,698,1117
+430,Titleist Players Sunday Bag,Golf Bags,Titleist,195.91,282
+431,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,368.64,624
+432,Callaway Fairway C Cart Bag - Blue,Golf Bags,Callaway,262.37,365
+433,Sun Mountain 4.5 LS Stand Bag - Grey,Golf Bags,Sun Mountain,131.79,209
+434,Srixon ZX5 Driving Iron - 2i,Irons & Wedges,Srixon,403.49,573
+435,FootJoy Traditions Spiked Shoes - White - Size 8.5,Footwear,FootJoy,83,140
+436,TaylorMade FlexTech Cart Bag - Black,Golf Bags,TaylorMade,266.3,424
+437,G/FORE MG4+ Golf Shoes - Size 9.5 - White,Footwear,G/FORE,163.79,244
+438,Cleveland CBX ZipCore Wedge - 52,Irons & Wedges,Cleveland,801.44,1427
+439,Srixon ZX Mk II Hybrid - 4H X-Stiff,Drivers & Woods,Srixon,367,504
+440,TaylorMade Spider GT Putter - 35,Putters,TaylorMade,293.73,435
+441,Bettinardi Queen B #6 Putter - 35,Putters,Bettinardi,275,410
+442,Vice Golf Pro Plus - Yellow - Dozen Pack,Golf Balls,Vice Golf,38.03,54
+443,Wilson Staff Dynapower Driver - 12.0 Ladies,Drivers & Woods,Wilson Staff,448.33,705
+444,Callaway Apex Pro Driving Iron - 2i,Irons & Wedges,Callaway,786,1195
+445,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,742.79,1226
+446,FootJoy Lisle Polo - Silver - Size XXL,Apparel,FootJoy,61.88,89
+447,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,19,26
+448,Peter Millar Crown Sport Performance Shorts - Green - Waist 34,Apparel,Peter Millar,44,79
+449,Titleist Players Sunday Bag,Footwear,Titleist,138.38,187
+450,Callaway Paradym Hybrid - 4H X-Stiff,Drivers & Woods,Callaway,325,485
+451,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,30.33,49
+452,FootJoy Pro/SL Golf Shoes - Size 9 - Black,Footwear,FootJoy,152,242
+453,PXG GEN6 0311 Fairway Wood - 3W Ladies,Drivers & Woods,PXG,355,497
+454,Bridgestone Tour B RXS - Yellow - Dozen Pack,Golf Balls,Bridgestone,22,35
+455,Wilson Staff Duo Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Wilson Staff,26.98,39
+456,Titleist Players 4 Cart Bag - Black,Golf Bags,Titleist,193.39,269
+457,Srixon ZX Mk II Fairway Wood - 3W Regular,Drivers & Woods,Srixon,403.49,675
+458,TravisMathew The Zinna Polo - Navy - Size XXL,Apparel,TravisMathew,52,70
+459,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size S,Apparel,Nike Golf,70.83,115
+460,Scotty Cameron Newport 2 Blade Putter - 35,Putters,Scotty Cameron,311,542
+461,Callaway Fairway C Players Sunday Bag,Golf Bags,Callaway,178.53,321
+462,Titleist Players Sunday Bag,Golf Bags,Titleist,189.96,339
+463,Ping Hoofer Stand Bag - Black,Golf Bags,Ping,116,163
+464,Bettinardi Queen B #6 Mallet Putter - 33,Putters,Bettinardi,193.38,300
+465,Under Armour HOVR Drive Spikeless Shoes - Size 9,Footwear,Under Armour,171,281
+466,Mizuno ST-Z 230 Driver - 10.5 Regular,Drivers & Woods,Mizuno,280,488
+467,TaylorMade FlexTech Stand Bag - Red,Golf Bags,TaylorM,153,244
+468,Under Armour Playoff 1/4 Zip Pullover - Blue - Size S,Apparel,Under Armour,82.72,126
+469,Ogio WOODE Hybrid Stand Bag - Red,Golf Bags,Ogio,131.78,212
+470,Srixon ZX5 Iron Set (5-PW) - Regular,Irons & Wedges,Srixon,522.06,789
+471,TaylorMade Stealth 2 Hybrid - 4H Stiff,Drivers & Woods,TaylorMade,444.69,636
+472,G/FORE MG4+ Golf Shoes - Size 10.5 - Black,Footwear,G/FORE,158,266
+473,Callaway Chrome Soft - Yellow - Dozen Pack,Golf Balls,Callaway,32,49
+474,Ogio WOODE Hybrid Stand Bag - Silver,Golf Bags,Ogio,122.9,198
+475,Cobra Aerojet Driver - 9.0 Stiff,Drivers & Woods,Cobra,324,561
+476,FootJoy Traditions Spiked Shoes - White - Size 11,Footwear,FootJoy,140,249
+477,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,382,624
+478,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.73,1486
+479,Adidas Golf Ultimate365 1/4 Zip Pullover - Silver - Size S,Apparel,Adidas Golf,74.78,132
+480,Odyssey White Hot OG Putter - 33,Putters,Odyssey,195,302
+481,Titleist T100 Iron Set (5-PW) - Regular,Irons & Wedges,Titleist,434.6,739
+482,Adidas Golf Codechaos Spikeless Shoes - Size 8.5,Footwear,Adidas Golf,179,308
+483,Nike Golf Air Max 90 G Golf Shoes - Size 8 - White,Footwear,Nike Golf,173.34,259
+484,Cleveland Staff Model Wedge - 52,Irons & Wedges,Cleveland,875,1236
+485,TaylorMade P790 Iron Set (5-PW) - Ladies,Irons & Wedges,TaylorMade,494.39,787
+486,Titleist Pro V1x Golf Balls - Dozen Pack,Golf Balls,Titleist,27,38
+487,Ping Hoofer Stand Bag - Silver,Golf Bags,Ping,238.41,358
+488,Sun Mountain Chiller Cart Bag - Grey,Golf Bags,Sun Mountain,138,187
+489,Mizuno ST-Z 230 Driver - 12.0 Senior,Drivers & Woods,Mizuno,386.4,630
+490,FootJoy Pro/SL Golf Shoes - Size 12 - Blue,Footwear,FootJoy,123.69,186
+491,Under Armour HOVR Drive Golf Shoes - Size 8.5 - Black,Footwear,Under Armour,101,159
+492,Callaway Paradym Fairway Wood - 3W Regular,Drivers & Woods,Callaway,301,425
+493,Titleist Players 4 Cart Bag - Navy,Golf Bags,Titleist,138,217
+494,Mizuno JPX923 Hot Metal Wedge - 56,Irons & Wedges,Mizuno,750,1118
+495,Peter Millar Crown Sport Performance Shorts - Green - Waist 34,Apparel,Peter Millar,53,74
+496,Ping G430 MAX Fairway Wood - 3W Stiff,Drivers & Woods,Ping,202,308
+497,Ping G430 MAX Driver - 10.5 Regular,Drivers & Woods,Ping,409.84,693
+498,Wilson Staff Dynapower Hybrid - 4H Regular,Drivers & Woods,Wilson Staff,444.83,619
+499,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,19,26
+500,Peter Millar Crown Sport Polo - Silver - Size S,Apparel,Peter Millar,37.9,59
+501,Cobra Aerojet Driver - 9.5 Stiff,Drivers & Woods,Cobra,292,456
+502,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,192.83,278
+503,Under Armour Playoff Performance Shorts - Navy - Waist 34,Apparel,Under Armour,37,56
+504,Mizuno ST-Z 230 Fairway Wood - 3W Regular,Drivers & Woods,Mizuno,236.4,329
+505,Adidas Golf Ultimate365 Performance Shorts - Grey - Waist 34,Apparel,Adidas Golf,82,143
+506,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,29,52
+507,Odyssey White Hot OG Mallet Putter - 33,Putters,Odyssey,143.21,202
+508,TaylorMade Tour Response Golf Balls - Dozen Pack,Golf Balls,TaylorMade,36,66
+509,TaylorMade FlexTech Stand Bag - Red,Golf Bags,TaylorMade,206.18,301
+510,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,310,540
+511,Nike Golf Dri-FIT 1/4 Zip Pullover - Silver - Size XL,Apparel,Nike Golf,72.07,117
+512,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,239.52,430
+513,FootJoy Traditions Spiked Shoes - White - Size 11,Footwear,FootJoy,168.17,250
+514,Titleist T100 Iron Set (5-PW) - Regular,Irons & Wedges,Titleist,434.6,739
+515,Adidas Golf Ultimate365 Polo - Silver - Size S,Apparel,Adidas Golf,36.56,64
+516,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.61,1231
+517,G/FORE Feeder Stripe 1/4 Zip Pullover - Navy - Size L,Apparel,G/FORE,43.43,62
+518,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,24,37
+519,Bridgestone Tour B RXS Golf Balls - Dozen Pack,Golf Balls,Bridgestone,22,41
+520,Callaway Apex Pro Driving Iron - 2i,Irons & Wedges,Callaway,533.09,928
+521,Bettinardi Queen B #6 Mallet Putter - 33,Putters,Bettinardi,193.38,300
+522,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,38.16,66
+523,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,699,999
+524,Adidas Golf Codechaos Golf Shoes - Size 12 - Grey,Footwear,Adidas Golf,136.63,208
+525,Cobra Aerojet Driver - 9.5 Stiff,Drivers & Woods,Cobra,326,509
+526,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,19.33,26
+527,Ping Hoofer Stand Bag - Charcoal,Golf Bags,Ping,196.2,279
+528,Bettinardi Queen B #6 Putter - 33,Putters,Bettinardi,211.59,343
+529,Nike Golf Dri-FIT Polo - Blue - Size M,Apparel,Nike Golf,54,92
+530,Cleveland Staff Model Wedge - 52,Irons & Wedges,Cleveland,875,1236
+531,Mizuno JPX923 Hot Metal Wedge - 50,Irons & Wedges,Mizuno,853,1308
+532,Srixon ZX Mk II Hybrid - 4H Stiff,Drivers & Woods,Srixon,388.58,521
+533,Puma Golf Ignite Articulate Golf Shoes - Size 10.5 - Green,Footwear,Puma Golf,115,201
+534,Sun Mountain 4.5 LS Stand Bag - Grey,Golf Bags,Sun Mountain,131.79,209
+535,Ogio WOODE Hybrid Stand Bag - Black,Golf Bags,Ogio,200.74,271
+536,Scotty Cameron Newport 2 Blade Putter - 33,Putters,Scotty Cameron,311,542
+537,Titleist Pro V1x Golf Balls - Dozen Pack,Golf Balls,Titleist,27,38
+538,TaylorMade FlexTech Cart Bag - Black,Golf Bags,TaylorMade,266.3,424
+539,Under Armour Playoff 1/4 Zip Pullover - Black - Size M,Apparel,Under Armour,71,101
+540,G/FORE MG4+ Golf Shoes - Size 9.5 - White,Footwear,G/FORE,163.79,244
+541,Cleveland CBX ZipCore Wedge - 52,Irons & Wedges,Cleveland,801.44,1427
+542,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size S,Apparel,Nike Golf,70.83,115
+543,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,15.65,22
+544,Wilson Staff Duo Soft - Yellow - Dozen Pack,Golf Balls,Wilson Staff,31,41
+545,TaylorMade Spider GT Mallet Putter - 34,Putters,TaylorMade,268.04,451
+546,TaylorMade Spider GT Mallet Putter - 33,Putters,TaylorMade,223,348
+547,Evnroll ER2 Putter - 33,Putters,Evnroll,336.94,445
+548,TaylorMade FlexTech Stand Bag - Green,Golf Bags,TaylorMade,133.37,219
+549,Adidas Golf Codechaos Golf Shoes - Size 10.5 - Green,Footwear,Adidas Golf,154,233
+550,Nike Golf Dri-FIT Polo - Silver - Size XXL,Apparel,Nike Golf,87.95,142
+551,Nike Golf Dri-FIT 1/4 Zip Pullover - Blue - Size L,Apparel,Nike Golf,79,103
+552,PXG GEN6 0311 Hybrid - 4H Regular,Drivers & Woods,PXG,356.98,497
+553,Sun Mountain 4.5 LS Stand Bag - Navy,Golf Bags,Sun Mountain,138.39,219
+554,Cobra King Tour Driving Iron - 2i,Irons & Wedges,Cobra,449.88,716
+555,Titleist Tour Performance Hat - Green,Accessories,Titleist,138.64,228
+556,TaylorMade Tour Response - Yellow - Dozen Pack,Golf Balls,TaylorMade,29,53
+557,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,676.71,1144
+558,Evnroll ER2 Putter - 34,Putters,Evnroll,274.72,402
+559,Wilson Staff Duo Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Wilson Staff,30.86,52
+560,Titleist Players 4 Stand Bag - Black,Golf Bags,Titleist,167,269
+561,Peter Millar Crown Sport 1/4 Zip Pullover - Blue - Size XXL,Apparel,Peter Millar,84.95,138
+562,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,275,372
+563,Titleist TSR2 Driver - 10.5 Regular,Drivers & Woods,Titleist,245.56,381
+564,TravisMathew The Zinna 1/4 Zip Pullover - Blue - Size S,Apparel,TravisMathew,50.84,66
+565,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Bags,Srixon,184.97,298
+566,Nike Golf Dri-FIT Performance Shorts - Silver - Waist 34,Apparel,Nike Golf,54,77
+567,Mizuno ST-Z 230 Driver - 9.0 Stiff,Drivers & Woods,Mizuno,386,634
+568,FootJoy Weather-Sof Rain Jacket - Size XL,Apparel,FootJoy,30.34,44
+569,Cobra King Tour Iron Set (5-PW) - X-Stiff,Irons & Wedges,Cobra,529.58,901
+570,Titleist Pro V1 Golf Balls - Dozen Pack,Golf Balls,Titleist,15.65,22
+571,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.73,1486
+572,Vice Golf Pro Plus - Yellow - Dozen Pack,Golf Balls,Vice Golf,21.82,31
+573,TaylorMade Stealth 2 Driver - 9.5 Stiff,Drivers & Woods,TaylorMade,233.56,386
+574,Sun Mountain Chiller Stand Bag - Blue,Golf Bags,Sun Mountain,192.83,346
+575,G/FORE Feeder Stripe 1/4 Zip Pullover - Grey - Size L,Apparel,G/FORE,48.06,78
+576,G/FORE Feeder Stripe Polo - Black - Size M,Apparel,G/FORE,44.91,61
+577,Titleist Players 4 Stand Bag - Charcoal,Golf Bags,Titleist,138.82,189
+578,Nike Golf Dri-FIT Performance Shorts - Blue - Waist 34,Apparel,Nike Golf,79,130
+579,Evnroll ER2 Putter - 33,Putters,Evnroll,319,530
+580,Titleist Tour Performance Hat - White,Accessories,Titleist,101.44,147
+581,Odyssey White Hot OG Mallet Putter - 33,Putters,Odyssey,246,367
+582,Callaway Paradym Hybrid - 4H Regular,Drivers & Woods,Callaway,383,610
+583,Sun Mountain 4.5 LS Cart Bag - Silver,Golf Bags,Sun Mountain,141.6,220
+584,Callaway Paradym Driver - 10.5 Regular,Drivers & Woods,Callaway,345,570
+585,Vice Golf Pro Plus Golf Balls - 2 Dozen Bundle,Golf Balls,Vice Golf,24,38
+586,Cleveland Staff Model Iron - 7 Iron,Irons & Wedges,Cleveland,688.58,1116
+587,PXG GEN6 0311 Hybrid - 4H Ladies,Drivers & Woods,PXG,439.06,589
+588,Callaway Fairway C Stand Bag - Navy,Golf Bags,Callaway,197,320
+589,Callaway Apex Pro Iron Set (5-PW) - Stiff,Irons & Wedges,Callaway,531,739
+590,G/FORE MG4+ Golf Shoes - Size 12 - Grey,Footwear,G/FORE,175,279
+591,FootJoy Pro/SL Spikeless Shoes - Size 10.5,Footwear,FootJoy,137.67,235
+592,Wilson Staff Duo Soft - Yellow - Dozen Pack,Golf Balls,Wilson Staff,16.48,22
+593,Srixon ZX Mk II Hybrid - 4H Senior,Drivers & Woods,Srixon,445.89,687
+594,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,693,1213
+595,FootJoy Lisle Polo - Blue - Size M,Apparel,FootJoy,42.54,67
+596,Vice Golf Pro Plus Golf Balls - Dozen Pack,Golf Balls,Vice Golf,38.83,57
+597,Odyssey White Hot OG Putter - 33,Putters,Odyssey,299,509
+598,Adidas Golf Ultimate365 1/4 Zip Pullover - Blue - Size XL,Apparel,Adidas Golf,62.2,95
+599,PXG GEN6 0311 Fairway Wood - 3W X-Stiff,Drivers & Woods,PXG,201.55,343
+600,FootJoy Pro/SL Spikeless Shoes - Size 9.5,Footwear,FootJoy,123.63,222
+601,Callaway Fairway C Stand Bag - Charcoal,Golf Bags,Callaway,167,226
+602,Nike Golf Air Max 90 G Golf Shoes - Size 9 - Red,Footwear,Nike Golf,83.43,149
+603,Bag Boy Chiller Cart Bag - Grey,Golf Bags,Bag Boy,241.25,418
+604,Nike Golf Air Max 90 G Golf Shoes - Size 10.5 - Grey,Footwear,Nike Golf,78,132
+605,Titleist Tour Performance Hat - Black,Accessories,Titleist,139.11,234
+606,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,224.22,357
+607,PXG GEN6 0311 Driver - 12.0 Ladies,Drivers & Woods,PXG,278,414
+608,Sun Mountain 4.5 LS Cart Bag - Navy,Golf Bags,Sun Mountain,210.66,359
+609,Mizuno ST-Z 230 Driver - 9.0 Stiff,Drivers & Woods,Mizuno,375.46,556
+610,Ogio WOODE Hybrid Stand Bag - Red,Golf Bags,Ogio,200.77,344
+611,FootJoy Lisle Polo - Green - Size L,Apparel,FootJoy,65,116
+612,Vice Golf Pro Plus Golf Balls - 2 Dozen Bundle,Golf Balls,Vice Golf,21.37,32
+613,Mizuno ST-Z 230 Driver - 9.5 Stiff,Drivers & Woods,Mizuno,334.82,493
+614,Cleveland CBX ZipCore Wedge - 56,Irons & Wedges,Cleveland,474.96,804
+615,TaylorMade FlexTech Cart Bag - Blue,Golf Bags,TaylorMade,138,206
+616,Ping G430 MAX Driver - 12.0 Regular,Drivers & Woods,Ping,228.3,315
+617,Sun Mountain 4.5 LS Stand Bag - Blue,Golf Bags,Sun Mountain,201.81,267
+618,Cobra Aerojet Fairway Wood - 3W X-Stiff,Drivers & Woods,Cobra,182.25,272
+619,FootJoy Lisle Polo - Black - Size XXL,Apparel,FootJoy,89,165
+620,Oakley Sutro Sunglasses - Golf Prizm Lens,Accessories,Oakley,284,480
+621,Sun Mountain Chiller Stand Bag - Blue,Golf Bags,Sun Mountain,138,232
+622,Scotty Cameron Newport 2 Blade Putter - 34,Putters,Scotty Cameron,204.03,329
+623,Under Armour HOVR Drive Golf Shoes - Size 10 - Blue,Footwear,Under Armour,156,220
+624,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,29,52
+625,Odyssey White Hot OG Mallet Putter - 33,Putters,Odyssey,143.21,202
+626,TaylorMade Tour Response Golf Balls - Dozen Pack,Golf Balls,TaylorMade,36,66
+627,TaylorMade FlexTech Stand Bag - Red,Golf Bags,TaylorMade,206.18,301
+628,Cobra King Tour Wedge - 58,Irons & Wedges,Cobra,445.69,709
+629,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,310,540
+630,Nike Golf Dri-FIT 1/4 Zip Pullover - Silver - Size XL,Apparel,Nike Golf,72.07,117
+631,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,239.52,430
+632,FootJoy Traditions Spiked Shoes - White - Size 11,Footwear,FootJoy,168.17,250
+633,Titleist T100 Iron Set (5-PW) - Regular,Irons & Wedges,Titleist,434.6,739
+634,Adidas Golf Ultimate365 Polo - Silver - Size S,Apparel,Adidas Golf,36.56,64
+635,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.61,1231
+636,G/FORE Feeder Stripe 1/4 Zip Pullover - Navy - Size L,Apparel,G/FORE,43.43,62
+637,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,24,37
+638,Bridgestone Tour B RXS Golf Balls - Dozen Pack,Golf Balls,Bridgestone,22,41
+639,Callaway Apex Pro Driving Iron - 2i,Irons & Wedges,Callaway,533.09,928
+640,Bettinardi Queen B #6 Mallet Putter - 33,Putters,Bettinardi,193.38,300
+641,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,38.16,66
+642,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,699,999
+643,Adidas Golf Codechaos Golf Shoes - Size 12 - Grey,Footwear,Adidas Golf,136.63,208
+644,Cobra Aerojet Driver - 9.5 Stiff,Drivers & Woods,Cobra,326,509
+645,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,19.33,26
+646,Ping Hoofer Stand Bag - Charcoal,Golf Bags,Ping,196.2,279
+647,Bettinardi Queen B #6 Putter - 33,Putters,Bettinardi,211.59,343
+648,Nike Golf Dri-FIT Polo - Blue - Size M,Apparel,Nike Golf,54,92
+649,Cleveland Staff Model Wedge - 52,Irons & Wedges,Cleveland,875,1236
+650,Mizuno JPX923 Hot Metal Wedge - 50,Irons & Wedges,Mizuno,853,1308
+651,Srixon ZX Mk II Hybrid - 4H Stiff,Drivers & Woods,Srixon,388.58,521
+652,Puma Golf Ignite Articulate Golf Shoes - Size 10.5 - Green,Footwear,Puma Golf,115,201
+653,Sun Mountain 4.5 LS Stand Bag - Grey,Golf Bags,Sun Mountain,131.79,209
+654,Ogio WOODE Hybrid Stand Bag - Black,Golf Bags,Ogio,200.74,271
+655,Scotty Cameron Newport 2 Blade Putter - 33,Putters,Scotty Cameron,311,542
+656,Titleist Pro V1x Golf Balls - Dozen Pack,Golf Balls,Titleist,27,38
+657,TaylorMade FlexTech Cart Bag - Black,Golf Bags,TaylorMade,266.3,424
+658,Under Armour Playoff 1/4 Zip Pullover - Black - Size M,Apparel,Under Armour,71,101
+659,G/FORE MG4+ Golf Shoes - Size 9.5 - White,Footwear,G/FORE,163.79,244
+660,Cleveland CBX ZipCore Wedge - 52,Irons & Wedges,Cleveland,801.44,1427
+661,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size S,Apparel,Nike Golf,70.83,115
+662,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,143.76,214
+663,FootJoy Weather-Sof Rain Jacket - Size S,Apparel,FootJoy,53,88
+664,Srixon ZX Mk II Fairway Wood - 3W Regular,Drivers & Woods,Srixon,403.49,675
+665,TravisMathew The Zinna Polo - Navy - Size XXL,Apparel,TravisMathew,52,70
+666,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,30.33,49
+667,FootJoy Pro/SL Golf Shoes - Size 9 - Black,Footwear,FootJoy,152,242
+668,Bettinardi Queen B #6 Putter - 35,Putters,Bettinardi,275,410
+669,Puma Golf Cloudspun Polo - Grey - Size M,Apparel,Puma Golf,69.11,102
+670,Ping Hoofer Stand Bag - Black,Golf Bags,Ping,116,163
+671,Under Armour HOVR Drive Spikeless Shoes - Size 11,Footwear,Under Armour,156,220
+672,Callaway Fairway C Stand Bag - Navy,Golf Bags,Callaway,203,346
+673,Puma Golf Cloudspun Polo - Navy - Size S,Apparel,Puma Golf,46.7,69
+674,Bushnell Tour V6 Shift Rangefinder,Accessories,Bushnell,227,330
+675,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,548.77,933
+676,PXG 0211 Iron Set (5-PW) - Ladies,Irons & Wedges,PXG,711.23,1274
+677,Srixon ZX Mk II Hybrid - 4H Regular,Drivers & Woods,Srixon,303.88,414
+678,TaylorMade Spider GT Putter - 35,Putters,TaylorMade,293.73,435
+679,Wilson Staff Dynapower Driver - 12.0 Ladies,Drivers & Woods,Wilson Staff,448.33,705
+680,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Balls,Srixon,21.5,33
+681,Callaway Apex Pro Driving Iron - 2i,Irons & Wedges,Callaway,786,1195
+682,FootJoy Lisle Polo - Silver - Size XXL,Apparel,FootJoy,61.88,89
+683,Vice Golf Pro Plus - Yellow - Dozen Pack,Golf Balls,Vice Golf,38.03,54
+684,TaylorMade FlexTech Cart Bag - Navy,Golf Bags,TaylorMade,237.95,355
+685,Titleist Players 4 Cart Bag - Green,Golf Bags,Titleist,245.56,420
+686,Titleist Players Sunday Bag,Golf Bags,Titleist,195.91,282
+687,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,742.79,1226
+688,TaylorMade P790 Iron Set (5-PW) - Stiff,Irons & Wedges,TaylorMade,781,1149
+689,PXG GEN6 0311 Fairway Wood - 3W Ladies,Drivers & Woods,PXG,355,497
+690,Bridgestone Tour B RXS - Yellow - Dozen Pack,Golf Balls,Bridgestone,22,35
+691,Wilson Staff Duo Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Wilson Staff,26.98,39
+692,Titleist Players 4 Cart Bag - Black,Golf Bags,Titleist,193.39,269
+693,FootJoy Pro/SL Golf Shoes - Size 11 - Grey,Footwear,FootJoy,110.15,197
+694,TaylorMade Stealth 2 Driver - 9.0 Stiff,Drivers & Woods,TaylorMade,322,467
+695,PXG 0211 Wedge - 52,Irons & Wedges,PXG,605.82,1067
+696,FootJoy Lisle Polo - Blue - Size L,Apparel,FootJoy,31.7,46
+697,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,18,33
+698,TaylorMade Stealth 2 Fairway Wood - 3W Regular,Drivers & Woods,TaylorMade,210.36,314
+699,Under Armour HOVR Drive Spikeless Shoes - Size 8,Footwear,Under Armour,146,247
+700,TaylorMade Stealth 2 Driver - 8.0 Stiff,Drivers & Woods,TaylorMade,331.02,527
+701,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,130,176
+702,Mizuno ST-Z 230 Driver - 10.5 Regular,Drivers & Woods,Mizuno,362.4,592
+703,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Balls,Srixon,21,30
+704,Adidas Golf Ultimate365 1/4 Zip Pullover - Red - Size M,Apparel,Adidas Golf,54.49,79
+705,FootJoy Pro/SL Golf Shoes - Size 9.5 - Grey,Footwear,FootJoy,92,170
+706,Nike Golf Air Max 90 G Spikeless Shoes - Size 10.5,Footwear,Nike Golf,127.35,189
+707,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,368.64,624
+708,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,36,65
+709,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,750,1118
+710,Titleist T100 Wedge - 58,Irons & Wedges,Titleist,388,657
+711,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,843,1491
+712,Titleist Players 4 Cart Bag - Red,Golf Bags,Titleist,279.79,417
+713,Nike Golf Dri-FIT Polo - Blue - Size M,Apparel,Nike Golf,54,92
+714,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,138,206
+715,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,35.79,48
+716,Cobra Aerojet Fairway Wood - 3W Senior,Drivers & Woods,Cobra,254.55,395
+717,Peter Millar Crown Sport Polo - Black - Size L,Apparel,Peter Millar,55,83
+718,Titleist TSR2 Driver - 8.0 X-Stiff,Drivers & Woods,Titleist,276,467
+719,Titleist T100 Driving Iron - 2i,Irons & Wedges,Titleist,698,1117
+720,Ping G430 MAX Fairway Wood - 3W X-Stiff,Drivers & Woods,Ping,245.56,366
+721,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,34.02,59
+722,Titleist Players 4 Stand Bag - Charcoal,Golf Bags,Titleist,143.95,203
+723,Srixon ZX5 Driving Iron - 2i,Irons & Wedges,Srixon,403.49,573
+724,Cobra Aerojet Hybrid - 4H Regular,Drivers & Woods,Cobra,443.34,604
+725,Callaway Fairway C Cart Bag - Blue,Golf Bags,Callaway,262.37,365
+726,Mizuno ST-Z 230 Fairway Wood - 3W Regular,Drivers & Woods,Mizuno,375.46,556
+727,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size XXL,Apparel,Nike Golf,58.69,98
+728,Srixon ZX Mk II Hybrid - 4H X-Stiff,Drivers & Woods,Srixon,367,504
+729,TravisMathew The Zinna Polo - Navy - Size L,Apparel,TravisMathew,52,70
+730,Scotty Cameron Newport 2 Blade Putter - 35,Putters,Scotty Cameron,311,542
+731,Nike Golf Air Max 90 G Golf Shoes - Size 12 - Red,Footwear,Nike Golf,161,210
+732,Ping Anser Mallet Putter - 35,Putters,Ping,206.59,334
+733,Nike Golf Dri-FIT Polo - Red - Size XL,Apparel,Nike Golf,27,42
+734,FootJoy Traditions Spiked Shoes - White - Size 9.5,Footwear,FootJoy,130,176
+735,Ogio WOODE Hybrid Stand Bag - Blue,Golf Bags,Ogio,122.9,198
+736,Peter Millar Crown Sport Performance Shorts - Green - Waist 34,Apparel,Peter Millar,44,79
+737,Mizuno ST-Z 230 Fairway Wood - 3W Regular,Drivers & Woods,Mizuno,236,329
+738,Mizuno JPX923 Hot Metal Wedge - 56,Irons & Wedges,Mizuno,750,1118
+739,TaylorMade Tour Response Golf Balls - Dozen Pack,Golf Balls,TaylorMade,36,66
+740,Srixon ZX Mk II Fairway Wood - 3W Stiff,Drivers & Woods,Srixon,403.49,573
+741,Bag Boy Chiller Cart Bag - Grey,Golf Bags,Bag Boy,241.25,418
+742,Puma Golf Cloudspun Polo - Grey - Size M,Apparel,Puma Golf,69.11,102
+743,Ping Anser Blade Putter - 34,Putters,Ping,115.11,180
+744,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,24,37
+745,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,693,1213
+746,Nike Golf Dri-FIT Polo - Silver - Size XXL,Apparel,Nike Golf,87.95,142
+747,TaylorMade Spider GT Putter - 35,Putters,TaylorMade,134.13,189
+748,Scotty Cameron Newport 2 Blade Putter - 34,Putters,Scotty Cameron,204.03,329
+749,FootJoy Lisle Polo - Blue - Size L,Apparel,FootJoy,31.7,46
+750,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,32,49
+751,Nike Golf Air Max 90 G Golf Shoes - Size 10.5 - Silver,Footwear,Nike Golf,107,175
+752,Mizuno ST-Z 230 Driver - 12.0 Ladies,Drivers & Woods,Mizuno,427.56,667
+753,Callaway Fairway C Stand Bag - Navy,Golf Bags,Callaway,203,346
+754,Puma Golf Cloudspun Polo - Navy - Size S,Apparel,Puma Golf,46.7,69
+755,FootJoy Pro/SL Golf Shoes - Size 9.5 - Grey,Footwear,FootJoy,92,170
+756,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,36,66
+757,Srixon ZX Mk II Hybrid - 4H Senior,Drivers & Woods,Srixon,445.89,687
+758,Evnroll ER2 Putter - 33,Putters,Evnroll,319,530
+759,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,143.76,214
+760,Nike Golf Air Max 90 G Spikeless Shoes - Size 12,Footwear,Nike Golf,161.9,258
+761,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,34.02,59
+762,Titleist Players 4 Stand Bag - Charcoal,Golf Bags,Titleist,143.95,203
+763,Ping G430 MAX Fairway Wood - 3W X-Stiff,Drivers & Woods,Ping,245.56,366
+764,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,138,206
+765,Bettinardi Queen B #6 Mallet Putter - 33,Putters,Bettinardi,193.38,300
+766,TaylorMade P790 Iron Set (5-PW) - Stiff,Irons & Wedges,TaylorMade,781,1149
+767,Peter Millar Crown Sport Polo - Black - Size L,Apparel,Peter Millar,55,83
+768,TaylorMade Spider GT Blade Putter - 33,Putters,TaylorMade,224.22,357
+769,Cleveland CBX ZipCore Wedge - 56,Irons & Wedges,Cleveland,474.96,804
+770,Mizuno JPX923 Hot Metal Wedge - 50,Irons & Wedges,Mizuno,853,1308
+771,Bridgestone Tour B RXS Golf Balls - Dozen Pack,Golf Balls,Bridgestone,22,41
+772,TaylorMade Stealth 2 Driver - 8.0 Stiff,Drivers & Woods,TaylorMade,331.02,527
+773,Titleist Tour Performance Hat - Silver,Accessories,Titleist,195,302
+774,Titleist TSR2 Driver - 8.0 X-Stiff,Drivers & Woods,Titleist,276,467
+775,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,878.61,1231
+776,FootJoy Weather-Sof Rain Jacket - Size S,Apparel,FootJoy,53,88
+777,FootJoy Pro/SL Golf Shoes - Size 11 - Grey,Footwear,FootJoy,110.15,197
+778,FootJoy Lisle Performance Shorts - Black - Waist 34,Apparel,FootJoy,53,88
+779,Cobra Aerojet Fairway Wood - 3W Senior,Drivers & Woods,Cobra,254.55,395
+780,TaylorMade Spider GT Putter - 33,Putters,TaylorMade,241.69,327
+781,Sun Mountain 4.5 LS Cart Bag - Black,Golf Bags,Sun Mountain,225,329
+782,Cobra King Tour Wedge - 58,Irons & Wedges,Cobra,445.69,709
+783,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,36,65
+784,Under Armour HOVR Drive Spikeless Shoes - Size 8,Footwear,Under Armour,146,247
+785,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,750,1118
+786,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size XXL,Apparel,Nike Golf,58.69,98
+787,Adidas Golf Ultimate365 1/4 Zip Pullover - Red - Size M,Apparel,Adidas Golf,54.49,79
+788,Srixon Z-Star Golf Balls - 2 Dozen Bundle,Golf Balls,Srixon,21,30
+789,TaylorMade P790 Driving Iron - 2i,Irons & Wedges,TaylorMade,843,1491
+790,Adidas Golf Codechaos Golf Shoes - Size 8 - Blue,Footwear,Adidas Golf,78,138
+791,G/FORE MG4+ Golf Shoes - Size 11 - Black,Footwear,G/FORE,118.06,193
+792,Callaway Fairway C Stand Bag - Charcoal,Golf Bags,Callaway,167,226
+793,Titleist Pro V1x - Yellow - Dozen Pack,Golf Balls,Titleist,35.79,48
+794,Sun Mountain 4.5 LS Cart Bag - Navy,Golf Bags,Sun Mountain,210.66,359
+795,FootJoy Traditions Spiked Shoes - White - Size 9,Footwear,FootJoy,130,176
+796,Under Armour HOVR Drive Spikeless Shoes - Size 11,Footwear,Under Armour,156,220
+797,Oakley Sutro Sunglasses - Golf Prizm Lens,Accessories,Oakley,284,480
+798,PXG 0211 Iron Set (5-PW) - Regular,Irons & Wedges,PXG,548.77,933
+799,Under Armour Playoff 1/4 Zip Pullover - Black - Size M,Apparel,Under Armour,71,101
+800,TaylorMade Stealth 2 Fairway Wood - 3W Regular,Drivers & Woods,TaylorMade,210.36,314
+801,Wilson Staff Duo Soft - Yellow - Dozen Pack,Golf Bags,Wilson Staff,115.65,181
+802,TaylorMade P790 Iron Set (5-PW) - Ladies,Irons & Wedges,TaylorMade,681,1145
+803,Ogio WOODE Hybrid Stand Bag - Blue,Golf Bags,Ogio,122.9,198
+804,Mizuno ST-Z 230 Driver - 10.5 Regular,Drivers & Woods,Mizuno,362.4,592
+805,Srixon Z-Star Golf Balls - Dozen Pack,Golf Balls,Srixon,18,33
+806,Titleist T100 Wedge - 58,Irons & Wedges,Titleist,388,657
+807,Titleist TSR2 Driver - 8.0 X-Stiff,Drivers & Woods,Titleist,276,467
+808,Cobra Aerojet Hybrid - 4H Regular,Drivers & Woods,Cobra,443.34,604
+809,Nike Golf Dri-FIT 1/4 Zip Pullover - Navy - Size M,Apparel,Nike Golf,35.61,48
+810,PXG 0211 Wedge - 52,Irons & Wedges,PXG,605.82,1067
+811,PXG 0211 Iron Set (5-PW) - X-Stiff,Irons & Wedges,PXG,465,656
+812,TaylorMade FlexTech Stand Bag - Green,Golf Bags,TaylorMade,223,341
+813,Titleist Players 4 Cart Bag - Red,Golf Bags,Titleist,279.79,417
+814,TaylorMade P790 Wedge - 56,Irons & Wedges,TaylorMade,776,1406
+815,Bushnell Phantom 2 GPS,Accessories,Bushnell,19.33,26
+816,Nike Golf Air Max 90 G Spikeless Shoes - Size 10.5,Footwear,Nike Golf,127.35,189
+817,Callaway Chrome Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Callaway,23,32
+818,Titleist Players 4 Cart Bag - Green,Golf Bags,Titleist,245.56,420
+819,Titleist T100 Driving Iron - 2i,Irons & Wedges,Titleist,698,1117
+820,Titleist Players Sunday Bag,Golf Bags,Titleist,195.91,282
+821,Callaway Paradym Driver - 12.0 Ladies,Drivers & Woods,Callaway,368.64,624
+822,Callaway Fairway C Cart Bag - Blue,Golf Bags,Callaway,262.37,365
+823,Sun Mountain 4.5 LS Stand Bag - Grey,Golf Bags,Sun Mountain,131.79,209
+824,Srixon ZX5 Driving Iron - 2i,Irons & Wedges,Srixon,403.49,573
+825,FootJoy Traditions Spiked Shoes - White - Size 8.5,Footwear,FootJoy,83,140
+826,TaylorMade FlexTech Cart Bag - Black,Golf Bags,TaylorMade,266.3,424
+827,G/FORE MG4+ Golf Shoes - Size 9.5 - White,Footwear,G/FORE,163.79,244
+828,Cleveland CBX ZipCore Wedge - 52,Irons & Wedges,Cleveland,801.44,1427
+829,Srixon ZX Mk II Hybrid - 4H X-Stiff,Drivers & Woods,Srixon,367,504
+830,TaylorMade Spider GT Putter - 35,Putters,TaylorMade,293.73,435
+831,Bettinardi Queen B #6 Putter - 35,Putters,Bettinardi,275,410
+832,Vice Golf Pro Plus - Yellow - Dozen Pack,Golf Balls,Vice Golf,38.03,54
+833,Wilson Staff Dynapower Driver - 12.0 Ladies,Drivers & Woods,Wilson Staff,448.33,705
+834,Callaway Apex Pro Driving Iron - 2i,Irons & Wedges,Callaway,786,1195
+835,Mizuno JPX923 Hot Metal Iron Set (5-PW) - Regular,Irons & Wedges,Mizuno,742.79,1226
+836,FootJoy Lisle Polo - Silver - Size XXL,Apparel,FootJoy,61.88,89
+837,TaylorMade Tour Response Golf Balls - 2 Dozen Bundle,Golf Balls,TaylorMade,19,26
+838,Peter Millar Crown Sport Performance Shorts - Green - Waist 34,Apparel,Peter Millar,44,79
+839,Titleist Players Sunday Bag,Footwear,Titleist,138.38,187
+840,Callaway Paradym Hybrid - 4H X-Stiff,Drivers & Woods,Callaway,325,485
+841,Callaway Chrome Soft Golf Balls - Dozen Pack,Golf Balls,Callaway,30.33,49
+842,FootJoy Pro/SL Golf Shoes - Size 9 - Black,Footwear,FootJoy,152,242
+843,PXG GEN6 0311 Fairway Wood - 3W Ladies,Drivers & Woods,PXG,355,497
+844,Bridgestone Tour B RXS - Yellow - Dozen Pack,Golf Balls,Bridgestone,22,35
+845,Wilson Staff Duo Soft Golf Balls - 2 Dozen Bundle,Golf Balls,Wilson Staff,26.98,39
+846,Titleist Players 4 Cart Bag - Black,Golf Bags,Titleist,193.39,269
+847,Srixon ZX Mk II Fairway Wood - 3W Regular,Drivers & Woods,Srixon,403.49,675
+848,TravisMathew The Zinna Polo - Navy - Size XXL,Apparel,TravisMathew,52,70
+849,Nike Golf Dri-FIT 1/4 Zip Pullover - White - Size S,Apparel,Nike Golf,70.83,115
+850,Scotty Cameron Newport 2 Blade Putter - 35,Putters,Scotty Cameron,311,542
+851,Callaway Fairway C Players Sunday Bag,Golf Bags,Callaway,178.53,321

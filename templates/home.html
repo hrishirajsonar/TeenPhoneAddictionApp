@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1>Teen Phone Addiction Analysis</h1>
+    {% if current_user.is_authenticated %}
+        <p>Welcome, {{ current_user.username }}! This web app analyzes teen phone addiction data from a Kaggle dataset.</p>
+    {% else %}
+        <p>Welcome! This web app analyzes teen phone addiction data from a Kaggle dataset. Please log in or sign up to upload data.</p>
+    {% endif %}
+{% endblock %}

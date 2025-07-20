@@ -1,0 +1,55 @@
+{% extends 'base.html' %}
+{% block content %}
+    <h1>Data Analysis: {{ filename }}</h1>
+    <p>Summary of the uploaded teen phone addiction dataset.</p>
+    
+    <section class="summary-section">
+        <h2>Dataset Overview</h2>
+        <p><strong>Rows:</strong> {{ summary.rows }}</p>
+        <p><strong>Columns:</strong> {{ summary.columns }}</p>
+    </section>
+
+    <section class="summary-section">
+        <h2>Null Values</h2>
+        {% if summary.null_values %}
+            <ul class="data-list">
+                {% for column, count in summary.null_values.items() %}
+                    <li>{{ column }}: {{ count }}</li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>No null values detected.</p>
+        {% endif %}
+    </section>
+
+    <section class="summary-section">
+        <h2>Descriptive Statistics</h2>
+        <table class="stats-table">
+            <thead>
+                <tr>
+                    <th>Statistic</th>
+                    {% for column in summary.stats.keys() %}
+                        <th>{{ column }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for stat, values in summary.stats.items() %}
+                    <tr>
+                        <td>{{ stat }}</td>
+                        {% for column in summary.stats.keys() %}
+                            <td>{{ values.get(column, '-') | round(2) if values.get(column) is not none else '-' }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+
+    <section class="visualization-placeholder">
+        <h2>Visualizations</h2>
+        <p>Charts will be added here by the team.</p>
+    </section>
+
+    <a href="{{ url_for('upload') }}" class="back-link">Upload Another File</a>
+{% endblock %}
