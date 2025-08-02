@@ -207,3 +207,13 @@ a:hover {
     font-size: 1rem;
     font-weight: 500;
 }
+
+.charts-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+.chart-item img {
+    max-width: 100%;
+    height: auto;
+}s

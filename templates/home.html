@@ -1,9 +1,20 @@
 {% extends 'base.html' %}
 {% block content %}
-    <h1>Teen Phone Addiction Analysis</h1>
-    {% if current_user.is_authenticated %}
-        <p>Welcome, {{ current_user.username }}! This web app analyzes teen phone addiction data from a Kaggle dataset.</p>
-    {% else %}
-        <p>Welcome! This web app analyzes teen phone addiction data from a Kaggle dataset. Please log in or sign up to upload data.</p>
-    {% endif %}
+    <div class="home-container">
+        <h1 class="main-title">Teen Phone Addiction Analysis</h1>
+        <div class="welcome-section">
+            {% if current_user.is_authenticated %}
+                <p class="welcome-text">Welcome, {{ current_user.username }}! This web app analyzes teen phone addiction data from a Kaggle dataset.</p>
+            {% else %}
+                <p class="welcome-text">Welcome! This web app analyzes teen phone addiction data from a Kaggle dataset. Please <a href="{{ url_for('login') }}">log in</a> or <a href="{{ url_for('signup') }}">sign up</a> to upload data.</p>
+            {% endif %}
+            <img src="{{ url_for('static', filename='images/cover.png') }}" alt="Teen Phone Addiction Illustration" class="home-image">
+            <p class="dataset-info">
+                This application utilizes a synthetic dataset simulating real-world data on teenage phone usage habits, mental health indicators, academic performance, and lifestyle behaviors. It aims to help analyze correlations between phone addiction and various aspects of adolescent life, including sleep, exercise, self-esteem, and school performance. It's designed for educational, research, and machine learning applications such as behavioral prediction, clustering, and health risk classification. <a href="https://www.kaggle.com/datasets" target="_blank">Visit the Kaggle dataset</a> for more details.
+            </p>
+            {% if not current_user.is_authenticated %}
+                <a href="{{ url_for('login') }}" class="cta-button">Get Started</a>
+            {% endif %}
+        </div>
+    </div>
 {% endblock %}

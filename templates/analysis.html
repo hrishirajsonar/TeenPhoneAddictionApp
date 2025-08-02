@@ -3,53 +3,113 @@
     <h1>Data Analysis: {{ filename }}</h1>
     <p>Summary of the uploaded teen phone addiction dataset.</p>
     
+    <form method="GET" action="{{ url_for('analysis', filename=filename) }}">
+        <label for="gender">Filter by Gender:</label>
+        <select name="gender" id="gender">
+            <option value="">All</option>
+            <option value="Male" {% if gender == 'Male' %}selected{% endif %}>Male</option>
+            <option value="Female" {% if gender == 'Female' %}selected{% endif %}>Female</option>
+            <option value="Other" {% if gender == 'Other' %}selected{% endif %}>Other</option>
+        </select>
+        <label for="school_grade">Filter by Grade:</label>
+        <select name="school_grade" id="school_grade">
+            <option value="">All</option>
+            <option value="7th" {% if grade == '7th' %}selected{% endif %}>7th</option>
+            <option value="8th" {% if grade == '8th' %}selected{% endif %}>8th</option>
+            <option value="9th" {% if grade == '9th' %}selected{% endif %}>9th</option>
+            <option value="10th" {% if grade == '10th' %}selected{% endif %}>10th</option>
+            <option value="11th" {% if grade == '11th' %}selected{% endif %}>11th</option>
+            <option value="12th" {% if grade == '12th' %}selected{% endif %}>12th</option>
+        </select>
+        <input type="submit" value="Apply Filter">
+    </form>
+
     <section class="summary-section">
         <h2>Dataset Overview</h2>
-        <p><strong>Rows:</strong> {{ summary.rows }}</p>
-        <p><strong>Columns:</strong> {{ summary.columns }}</p>
+        <p><strong>Rows:</strong> {{ summary.mean.index | length }}</p>
+        <p><strong>Columns:</strong> {{ summary.mean.index | length if summary.mean.empty else summary.mean.size }}</p>
     </section>
 
     <section class="summary-section">
-        <h2>Null Values</h2>
-        {% if summary.null_values %}
-            <ul class="data-list">
-                {% for column, count in summary.null_values.items() %}
-                    <li>{{ column }}: {{ count }}</li>
-                {% endfor %}
-            </ul>
-        {% else %}
-            <p>No null values detected.</p>
-        {% endif %}
-    </section>
-
-    <section class="summary-section">
-        <h2>Descriptive Statistics</h2>
+        <h2>Summary Statistics</h2>
+        <h3>Mean</h3>
         <table class="stats-table">
             <thead>
-                <tr>
-                    <th>Statistic</th>
-                    {% for column in summary.stats.keys() %}
-                        <th>{{ column }}</th>
-                    {% endfor %}
-                </tr>
+                <tr><th>Column</th><th>Value</th></tr>
             </thead>
             <tbody>
-                {% for stat, values in summary.stats.items() %}
-                    <tr>
-                        <td>{{ stat }}</td>
-                        {% for column in summary.stats.keys() %}
-                            <td>{{ values.get(column, '-') | round(2) if values.get(column) is not none else '-' }}</td>
-                        {% endfor %}
-                    </tr>
+                {% for col, val in summary.mean.items() %}
+                    <tr><td>{{ col }}</td><td>{{ val | round(2) }}</td></tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h3>Median</h3>
+        <table class="stats-table">
+            <thead>
+                <tr><th>Column</th><th>Value</th></tr>
+            </thead>
+            <tbody>
+                {% for col, val in summary.median.items() %}
+                    <tr><td>{{ col }}</td><td>{{ val | round(2) }}</td></tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h3>Mode</h3>
+        <table class="stats-table">
+            <thead>
+                <tr><th>Column</th><th>Value</th></tr>
+            </thead>
+            <tbody>
+                {% for col, val in summary.mode.items() %}
+                    <tr><td>{{ col }}</td><td>{{ val | round(2) }}</td></tr>
                 {% endfor %}
             </tbody>
         </table>
     </section>
 
-    <section class="visualization-placeholder">
-        <h2>Visualizations</h2>
-        <p>Charts will be added here by the team.</p>
+    <section class="summary-section">
+        <h2>Correlation</h2>
+        {% set n_cols = summary.correlation.shape[1] %}
+        {% set split = (n_cols // 2) | int %}
+        <h3>Correlation (Part 1)</h3>
+        <table class="stats-table">
+            <thead>
+                <tr><th></th>{% for col in summary.correlation.columns[:split] %}<th>{{ col }}</th>{% endfor %}</tr>
+            </thead>
+            <tbody>
+                {% for index, row in summary.correlation.iloc[:split].iterrows() %}
+                    <tr><td>{{ index }}</td>{% for val in row[:split] %}<td>{{ val | round(2) }}</td>{% endfor %}</tr>
+                {% endfor %}
+            </tbody>
+        </table>
+
+        <h3>Correlation (Part 2)</h3>
+        <table class="stats-table">
+            <thead>
+                <tr><th></th>{% for col in summary.correlation.columns[split:] %}<th>{{ col }}</th>{% endfor %}</tr>
+            </thead>
+            <tbody>
+                {% for index, row in summary.correlation.iloc[split:].iterrows() %}
+                    <tr><td>{{ index }}</td>{% for val in row[split:] %}<td>{{ val | round(2) }}</td>{% endfor %}</tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </section>
+
+    <section class="charts-section">
+        <h2>Charts</h2>
+        <div class="charts-grid">
+            {% for chart_name, chart_data in charts.items() %}
+                <div class="chart-item">
+                    <img src="data:image/png;base64,{{ chart_data }}" alt="{{ chart_name }}">
+                    <p>{{ chart_name.replace('_', ' ').title() }}</p>
+                </div>
+            {% endfor %}
+        </div>
     </section>
 
     <a href="{{ url_for('upload') }}" class="back-link">Upload Another File</a>
+
 {% endblock %}
