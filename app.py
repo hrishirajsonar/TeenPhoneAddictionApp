@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import io
 import base64
+from werkzeug.security import generate_password_hash, check_password_hash
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'your-secret-key-1234567890'  # Replace with a secure key
